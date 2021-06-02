@@ -1,0 +1,8 @@
+﻿800|FIFINHA 20|Facil|5 -- Acclaim|R$ 122,90
+800|FIFINHA 20|Facil|5 -- Acclaim|R$ 575,19
+182|THE SIMS 2|Facil|4 -- EA|R$ 130,99
+11|JSON|Dificil|6 -- IronHide|R$ 133,90
+11|mARIO kART|Dificil|6 -- IronHide|R$ 377,80
+1|alezone|Facil|5 -- Acclaim|R$ 180,00
+12|Fifa 12|Facil|4 -- EA|R$ 122,90
+2|mk13|Medio|6 -- IronHide|R$ 122,90
